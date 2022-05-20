@@ -13,6 +13,7 @@ Edit the `songs_folder` property in `config.json`
 ## Required installations:
 - [FFMPEG](https://ffmpeg.org/download.html)
 - [Python 3.x.x >](https://www.python.org/downloads/release/python-3810/)
+- [VLC Library (windows)](https://get.videolan.org/vlc/2.2.8/win64/vlc-2.2.8-win64.exe)
 
 ## Required packages:
 - python-vlc
